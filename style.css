@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+/* CSS CODE */
+body {
+ /* background-color: beige; */
+ padding:20px;
+ background-color: #4D4D3333;
+  color: red;
+  text-align: center;
+font-family: 'Anton', sans-serif;
+}
+h1{
+  font-size: xx-large;
+}
+h2{
+  font-size: x-large;
+}
+a {
+  text-decoration: none;
+  color: red
+}
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+  
+}
+.btn{
+  display: block;
+  color: black;
+  padding: 20px;
+  background: beige;
+  margin:16px;
+  box-shadow: 10px 10px 8px black;
+}
